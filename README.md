@@ -18,7 +18,7 @@ The goal of this repo is to play a local configuration files satelite role for m
     Replacing configs...
     Done.
     ```
-1. Your configs was replaced by new ones. Make sure that all of them are .gitignored in main repo.
+1. Your configs were replaced by new ones. Make sure that all of them are .gitignored in main repo.
 
 ### How to create/update econfigs
 
