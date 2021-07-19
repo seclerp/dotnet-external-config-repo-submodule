@@ -20,8 +20,8 @@ The goal of this repo is to play a local configuration files satelite role for m
     ```
 1. Your configs were replaced by new ones. Make sure that all of them are .gitignored in main repo.
 
-### How to create/update econfigs
+### How to create/update configs
 
-Just place new configs or update existing configs in `content` directory. Make sure that your `content` directory reflects directory structure of main repo. It should be the same.
+Just place new configs or update existing ones in `content` directory. Make sure that your `content` directory reflects structure of main repo. It should be the same.
 
-After configs were updated, you could run `update` script in main repo to self-update this submodule and copy updated configs.
+After configs were updated, you could run `update-windows.bat` or `update-unix.sh` script in main repo to self-update this submodule and copy updated configs.
