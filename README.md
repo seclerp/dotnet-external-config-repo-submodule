@@ -10,7 +10,7 @@ The goal of this repo is to play a local configuration files satelite role for m
     - `git submodule add <path-to-this-repo> app-settings`
 1. Execute update script to actualize your configuration:
     - Windows (Batch) script: `app-settings/update-windows.bat`
-    - Unix (Bash) script: `app-settings/update-windows.sh`
+    - Unix (Bash) script: `app-settings/update-unix.sh`
 1. You should see somnething like that in the terminal:
     ```
     $app-settings> .\update-windows.bat
